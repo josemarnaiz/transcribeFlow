@@ -1,0 +1,18 @@
+/* TranscribeFlow Professional Styles */
+:root {
+  --gradient-start: #3B82F6;
+  --gradient-end: #8B5CF6;
+  --recording-color: #10B981;
+  --stop-color: #EF4444;
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+}
+
+.app-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* See repository for complete styles */
